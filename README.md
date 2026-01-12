@@ -258,10 +258,10 @@ crop-recommendation-system/
 ![Home Screen](screenshots/home.png)
 
 ### Prediction Results
-![Results](screenshots/results.png)
+![Results](screenshots/prediction.png)
 
 ### Bar Chart Visualization
-![Chart](screenshots/chart.png)
+![Chart](screenshots/results.png)
 
 ---
 
